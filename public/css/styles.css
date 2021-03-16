@@ -1,0 +1,68 @@
+.navbar {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(90, 52, 52);
+    text-align: center;
+  }
+
+  img.bg {
+    /* Set rules to fill background */
+    min-height: 100%;
+    min-width: 1024px;
+    
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
+    
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .container .post {
+    position: absolute;
+    margin-top:200px;
+    margin-right:200px;
+  }
+
+  .newContainer {
+  position: relative;
+  margin: 20px;
+  padding: 30px;
+  }
+
+  
+  .newContainer .post {
+    position: relative;
+    margin-top:20px;
+    margin-right:20px;
+  }
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
